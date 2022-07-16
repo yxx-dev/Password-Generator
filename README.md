@@ -12,8 +12,6 @@ Common webbrowser that supports html, CSS and JavaScript
 
 ## Usage
 For demonstration purpose only. <br />
-Screenshot: <br />
-![alt text](/assets/images/Screenshot.png)
 
 ## Credits
 Updated from starter code:
