@@ -1,8 +1,7 @@
 # Password Generator
 
 ## Description
-
-A JavaScript application that an employee can use to generate a random password based on criteria they've selected
+A JavaScript application that an employee can use to generate a random password based on criteria they've selected. Deployment: https://yxx-dev.github.io/Password-Generator/
 
 ## Table of Contents (Optional)
 NA
